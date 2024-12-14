@@ -29,7 +29,7 @@ The Spotify Data Analyzer is a Python-based application that processes your Spot
 ### 1. Clone the Repository
 Download or clone the repository to your local machine:
 ```bash
-git clone https://github.com/my-repo/spotify-data-analyzer.git
+git clone https://github.com/tj-batubo/spotify-data-analyzer.git
 cd spotify-data-analyzer
 ```
 
